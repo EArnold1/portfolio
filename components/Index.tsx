@@ -32,9 +32,9 @@ const Index = () => {
             </div>
           </section>
           <section>
-            <div className="mx-auto bg-gradient-to-bl from-cyan-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
+            <div className="mx-auto bg-gradient-to-t from-blue-400 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               <Image
-                src={'https://ershemug.sirv.com/portfolio/profile.svg'}
+                src={'https://ershemug.sirv.com/portfolio/profile-blue.svg'}
                 layout="fill"
                 objectFit="cover"
                 alt={'profile'}
